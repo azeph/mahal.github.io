@@ -1,2 +1,0 @@
-# mahal.github.io
-mahal
